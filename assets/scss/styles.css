@@ -464,7 +464,7 @@ img {
   }
   .about__img, .app__img {
     width: 380px;
-    order: -1;
+    order: -3;
   }
   .contact__container {
     grid-template-columns: 1.75fr 1fr;
