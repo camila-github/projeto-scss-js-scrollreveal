@@ -38,11 +38,13 @@ Não sendo necessario instalar o sass pelo comando do npm.
 
 ##### ATIVAR COMPILADOR LIVE SASS
 
-- Para que o sass seja compilado necessario ativar o compilador Live Sass. No arquivo 'index.html' informe o caminho onde será salvo o arquivo '.css' apos ser compilado pelo 'Live Sass'. Exemplo: 
+- Para que o sass seja compilado necessario ativar o compilador Live Sass. No arquivo 'index.html' informe o caminho onde será salvo o arquivo '.css' apos ser compilado pelo 'Live Sass'. 
 
-```html
-  <link rel="stylesheet" href="assets/scss/styles.css">   
-```
+- Exemplo: 
+
+  ```html
+    <link rel="stylesheet" href="assets/scss/styles.css">   
+  ```
 
 - Depois crie um arquivo, com a extenção '.scss' .Exemplo: 
 
@@ -78,15 +80,15 @@ Não sendo necessario instalar o sass pelo comando do npm.
 
 - ScrollReveal é uma biblioteca JavaScript para animar facilmente os elementos conforme eles entram / saem da janela de visualização.
 
-Abaixo o link do site:
+- Abaixo o link do site:
 
   [https://scrollrevealjs.org/guide/hello-world.html](https://scrollrevealjs.org/guide/hello-world.html)
 
-No projeto adicione no final da tag <body> o script abaixo:
+- No projeto adicione no final da tag <body> o script abaixo:
  
-```html 
- <script src="https://unpkg.com/scrollreveal"></script>
-```
+  ```html 
+   <script src="https://unpkg.com/scrollreveal"></script>
+  ```
 
 ## Conceitos Utilizados:
 
