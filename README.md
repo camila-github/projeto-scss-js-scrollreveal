@@ -101,4 +101,4 @@ Não sendo necessario instalar o sass pelo comando do npm.
 
 ## Site Publicado no link abaixo:
   
-    [https://camila-github.github.io/projeto-scss-js-scrollreveal/](https://camila-github.github.io/projeto-scss-js-scrollreveal/)
+   [https://camila-github.github.io/projeto-scss-js-scrollreveal/](https://camila-github.github.io/projeto-scss-js-scrollreveal/)
