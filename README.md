@@ -84,7 +84,7 @@ Não sendo necessario instalar o sass pelo comando do npm.
 
   [https://scrollrevealjs.org/guide/hello-world.html](https://scrollrevealjs.org/guide/hello-world.html)
 
-- No projeto adicione no final da tag <body> o script abaixo:
+- No projeto adicione no final da tag 'body' o script abaixo:
  
   ```html 
    <script src="https://unpkg.com/scrollreveal"></script>
