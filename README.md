@@ -24,7 +24,7 @@
 
 - Link de referencia:
 
-[https://sass-lang.com/](https://sass-lang.com/)
+  [https://sass-lang.com/](https://sass-lang.com/)
 
 
 ##### EXTENÇOES INSTALADAS NA IDE VSCODE
@@ -57,7 +57,8 @@ Não sendo necessario instalar o sass pelo comando do npm.
 
 ##### LITE-SERVER
 
-- O 'lite-server' será utilizado para monitorar as mudanças nos arquivos '.scss', para que o 'Live Sass' compile os arquivos para o '.css'. Abaixo o comando para instalar o 'lite-server'.
+- O 'lite-server' será utilizado para monitorar as mudanças nos arquivos '.scss', para que o 'Live Sass' compile os arquivos para o '.css'. 
+- Abaixo o comando para instalar o 'lite-server'.
 
   `$ npm i -g lite-server`
 
