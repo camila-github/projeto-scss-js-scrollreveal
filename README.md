@@ -74,6 +74,12 @@ Não sendo necessario instalar o sass pelo comando do npm.
 - Biblioteca de icones. Link CDN para vincular no projeto:
 
   [https://cdn.jsdelivr.net/npm/boxicons@2.0.7/css/boxicons.min.css](https://cdn.jsdelivr.net/npm/boxicons@2.0.7/css/boxicons.min.css)
+  
+##### WWW. REMOVE. BG
+
+- Utilizado o link abaixo para remover o fundo de uma imagem.
+
+   [https://www.remove.bg/pt-br/upload](https://www.remove.bg/pt-br/upload)
 
 
 ##### SCROLLREVEAL
