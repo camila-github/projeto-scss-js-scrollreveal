@@ -96,6 +96,7 @@ Não sendo necessario instalar o sass pelo comando do npm.
    <script src="https://unpkg.com/scrollreveal"></script>
   ```
 
+
 ## Conceitos Utilizados:
 
 - Criação de folha de estilo com scss.
@@ -107,6 +108,7 @@ Não sendo necessario instalar o sass pelo comando do npm.
 - Uso de conceitos SVG
 - Estrutura semântica no Html (SEO)
 
+
 ## Links de referencia:
 
 - Imagens: [https://www.pexels.com/pt-br/](https://www.pexels.com/pt-br/)
@@ -114,3 +116,7 @@ Não sendo necessario instalar o sass pelo comando do npm.
 - Conceitos SVG: [https://www.devmedia.com.br/introducao-ao-svg-scalable-vector-graphics/27280](https://www.devmedia.com.br/introducao-ao-svg-scalable-vector-graphics/27280)
 - Conceitos SEO: [https://danieldigital.com.br/blog/seo-tecnico-a-importancia-do-html5-semantico-para-melhorar-o-trafego-do-seu-site/#:~:text=Boa%20parte%20das%20tags%20de,exibir%20o%20conte%C3%BAdo%20na%20p%C3%A1gina.&text=Tamb%C3%A9m%20s%C3%A3o%20sem%C3%A2nticas%20as%20tags,est%C3%A1%20o%20cabe%C3%A7alho%20da%20p%C3%A1gina.](https://danieldigital.com.br/blog/seo-tecnico-a-importancia-do-html5-semantico-para-melhorar-o-trafego-do-seu-site/#:~:text=Boa%20parte%20das%20tags%20de,exibir%20o%20conte%C3%BAdo%20na%20p%C3%A1gina.&text=Tamb%C3%A9m%20s%C3%A3o%20sem%C3%A2nticas%20as%20tags,est%C3%A1%20o%20cabe%C3%A7alho%20da%20p%C3%A1gina.)
 
+
+## Site publicado no link abaixo:
+
+  [https://camila-github.github.io/projeto-scss-js-scrollreveal/](https://camila-github.github.io/projeto-scss-js-scrollreveal/)
