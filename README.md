@@ -9,7 +9,7 @@
 
 - No nodejs será utilizado o npm (gerenciador de pacotes) para instalar o scss. E tambem será utilizado o npx para ativar o compilador do scss.
 
-- Abaixo link para instalar o nodejs. Eu utilizei a versão LTS.
+- Abaixo link para instalar o nodejs. Eu utilizei a versão LTS:
 
   [https://nodejs.org/en/](https://nodejs.org/en/)
 
