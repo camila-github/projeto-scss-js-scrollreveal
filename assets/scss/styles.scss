@@ -6,8 +6,8 @@
     --header-height: 3rem;
 
     /* Cores */
-    --first-color: #069C54;
-    --first-color-alt: #048654;
+    --first-color: #9c4e06;
+    --first-color-alt: #868404;
     --title-color: #393939;
     --text-color: #707070;
     --text-color-light: #A6A6A6;
@@ -219,7 +219,7 @@ img{
     justify-content: center;
     align-items: center;
     padding: .3rem;
-    background: rgba(6, 156, 84, .5);
+    background: var(--first-color);
     border-radius: .4rem;
     z-index: var(--z-tooltip);
     transition: .4s;
@@ -249,7 +249,7 @@ img{
     &__title{
         font-size: var(--biggest-font-size  );
         color: var(--first-color);
-        margin-bottom: var(--mb-1);
+        margin-bottom: var(--mb-1);                 
     }
     &__subtitle{
         font-size: var(--h1-font-size);
@@ -259,6 +259,7 @@ img{
     &__img{
         width: 300px;
         justify-self: center;
+        border-radius: .5rem;
     }
 }
 
@@ -488,6 +489,7 @@ img{
         &__toggle{
             display: none;
         }
+        
     }
     
     .change-theme{
@@ -530,7 +532,7 @@ img{
     }
 
     .home__img{
-        width: 500px;
+        width: 500px;       
     }
 
     .about__container, .app__container{

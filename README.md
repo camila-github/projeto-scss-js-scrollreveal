@@ -104,6 +104,15 @@ Não sendo necessario instalar o sass pelo comando do npm.
 - Uso do BoxIcons (biblioteca de icones)
 - Site com responsividade.
 - Criação de tema Dark (escurecer a tela)
+- Uso de conceitos SVG
+- Estrutura semântica no Html (SEO)
+
+## Links de referencia:
+
+- Imagens: [https://www.pexels.com/pt-br/](https://www.pexels.com/pt-br/)
+- Referencia para o projeto: Bedimcode [https://www.youtube.com/watch?v=5RIFrZEjURA](https://www.youtube.com/watch?v=5RIFrZEjURA)
+- Conceitos SVG: [https://www.devmedia.com.br/introducao-ao-svg-scalable-vector-graphics/27280](https://www.devmedia.com.br/introducao-ao-svg-scalable-vector-graphics/27280)
+- Conceitos SEO: [https://danieldigital.com.br/blog/seo-tecnico-a-importancia-do-html5-semantico-para-melhorar-o-trafego-do-seu-site/#:~:text=Boa%20parte%20das%20tags%20de,exibir%20o%20conte%C3%BAdo%20na%20p%C3%A1gina.&text=Tamb%C3%A9m%20s%C3%A3o%20sem%C3%A2nticas%20as%20tags,est%C3%A1%20o%20cabe%C3%A7alho%20da%20p%C3%A1gina.](https://danieldigital.com.br/blog/seo-tecnico-a-importancia-do-html5-semantico-para-melhorar-o-trafego-do-seu-site/#:~:text=Boa%20parte%20das%20tags%20de,exibir%20o%20conte%C3%BAdo%20na%20p%C3%A1gina.&text=Tamb%C3%A9m%20s%C3%A3o%20sem%C3%A2nticas%20as%20tags,est%C3%A1%20o%20cabe%C3%A7alho%20da%20p%C3%A1gina.)
 
 ## Site Publicado no link abaixo:
 
