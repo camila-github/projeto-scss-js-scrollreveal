@@ -105,8 +105,3 @@ Não sendo necessario instalar o sass pelo comando do npm.
 - Site com responsividade.
 - Criação de tema Dark (escurecer a tela)
 
-## Site Publicado no link abaixo:
-
-[https://camila-github.github.io/projeto-scss-js-scrollreveal/](https://camila-github.github.io/projeto-scss-js-scrollreveal/)
-  
-
