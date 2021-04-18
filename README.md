@@ -97,7 +97,7 @@ Não sendo necessario instalar o sass pelo comando do npm.
   ```
 
 
-##### Links de referencia:
+##### LINKS DE REFERENCIA:
 
 - Imagens: [https://www.pexels.com/pt-br/](https://www.pexels.com/pt-br/)
 - Referencia para o projeto: Bedimcode [https://www.youtube.com/watch?v=5RIFrZEjURA](https://www.youtube.com/watch?v=5RIFrZEjURA)
